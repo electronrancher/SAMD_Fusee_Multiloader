@@ -7,6 +7,12 @@ Multiloader firmware for the SAMD_Loader board - user can now select from one of
 
 * (3) - SXOS Launcher
 
+![Top-Bottom_Pic](./images/Top_Bottom%20-%20Small.jpg)
+
+[If you would like to purchase a pre-built board, please see Tindie Page](https://www.tindie.com/products/13711/)
+
+
+
 This firmware was inspired by, and borrows from, mattytrog's implementation of Gemma multiloader.  Thanks mattytrog!
 
 
